@@ -1,0 +1,8 @@
+
+----------NEW GAME----------
+White Player: White
+Black Player: Black
+1 Pe4 Pe5 
+2 Nf3 Nc6 
+3 Bb5 Bb4 
+4 Pc3 
